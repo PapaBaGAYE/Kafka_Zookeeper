@@ -1,6 +1,6 @@
 # Kafka_Zookeeper
 
-> ```
+>```
 ./zkServer.sh start
 ./kafka-server-start.bat ../../config/server.properties
 *
